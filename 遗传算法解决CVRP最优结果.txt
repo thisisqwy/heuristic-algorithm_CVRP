@@ -1,0 +1,6 @@
+D:\Anaconda\envs\deepforest\python.exe "D:\Mathmatical contest in modeling\优化问题\遗传算法解决CVRP.py" 
+最优路径为: [array([0, 8, 4, 7, 2, 0]), array([0, 1, 3, 5, 6, 0])]
+最短总路径长度 69.0
+代码运行时间： 0.026729583740234375 秒
+
+进程已结束，退出代码为 0
