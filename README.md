@@ -1,2 +1,3 @@
-1.遗传算法求解CVRP，步骤为随机初始化、轮盘赌选择父代用于交叉变异、PMX交叉、两点交换变异。加入了惩罚因子而允许不可行解的存在，通过不断迭代来将不可行解逐渐剔除。算法参考和数据来源：https://github.com/zhongxiaolong1988/GeneticAlgorithm/tree/master
+1.遗传算法求解CVRP，步骤为随机初始化、轮盘赌选择父代用于交叉变异、PMX交叉、两点交换变异。加入了惩罚因子而允许不可行解的存在，通过不断迭代来将不可行解逐渐剔除。算法参考和数据来源：https://github.com/zhongxiaolong1988/GeneticAlgorithm/tree/master  
+2.蚁群算法求解SDVRP，算法和数据来源：[1]隋露斯, 唐加福, 潘震东. 用蚁群算法求解需求可拆分车辆路径问题[C]//中国控制与决策会议. 2008: 997-1001.
 
